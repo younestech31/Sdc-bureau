@@ -1,0 +1,6 @@
+{
+  "name": "صكوك الموثق - NotaryFunds SDC",
+  "description": "نظام إدارة ومتابعة أموال حساب الزبائن (SDC) والترقية العقارية ومصالحة الخزينة وجداول التفريغ لمكاتب التوثيق الجزائرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
